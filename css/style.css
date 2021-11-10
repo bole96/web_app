@@ -1,0 +1,81 @@
+        body
+        {
+            max-width: 1280px;
+            margin: 0 auto;
+        }
+        /*.container {
+            max-width: 1280px;
+        } */
+
+        .navbar .navbar-toggler {
+            border: 0;
+        }
+
+        .jumbotron .container .title {
+            background: rgb(51, 193, 135);
+            top: 80px;
+            left: 120px;
+            padding: 15px;
+            color: #ffffff;
+            font-size: 20px;
+            font-weight: 700;
+            letter-spacing: 1px;
+        }
+
+        .jumbotron .container {
+            padding-left: 0;
+            padding-right: 0;
+        }
+
+        .container-fluid {
+            padding-right: 0;
+            padding-left: 0;
+        }
+
+        #tolss {
+            padding-top: 50px;
+            padding-bottom: 70px;
+            padding-left: 20px;
+            padding-right: 20px
+        }
+
+        #end1 {
+            background-color: rgb(34, 34, 34);
+            text-align: left;
+        }
+
+        #end2 {
+            background-color: rgb(17, 17, 17);
+            padding: 10px;
+        }
+
+        #end1 .paragraph {
+            color: rgb(112, 112, 112);
+        }
+
+        #paragraph1 {
+            color: rgb(158, 158, 158);
+        }
+
+        #paragraph2 {
+            color: rgb(158, 158, 158);
+            ;
+        }
+
+        .titlee {
+            color: rgb(255, 255, 255);
+            padding: 25px;
+            padding-left: 0;
+        }
+
+        .row {
+            background-color: rgb(246, 246, 246);
+        }
+        h6 {
+            margin-top: 25px;
+        }
+        .hdd {
+            margin-top: 10px;
+            margin-bottom: 2px;
+        }
+        
